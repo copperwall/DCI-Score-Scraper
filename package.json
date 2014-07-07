@@ -1,0 +1,15 @@
+{
+  "name": "dci_score_scraper",
+  "version": "0.0.0",
+  "description": "Scrape dci.org/scores for the most up to date scores",
+  "main": "dci.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Opperwall",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "request": "^2.36.0"
+  }
+}
